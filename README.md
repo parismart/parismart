@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Paris Martínez
-
 <!--
 **parismart/parismart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - 🔭 Working on Minishell project
 - 🌱 Learning in [42Madrid](https://www.42madrid.com)
@@ -10,7 +10,6 @@
 - 🏠 Living in Valencia
 - 💬 Ask me about Science [Instagram](https://www.instagram.com/parisdetroya42/)
 - 📫 How to reach me: parismrt@gmail.com
--->
 
 [![parmarti 42 stats](https://badge42.herokuapp.com/api/stats/parmarti)](https://github.com/JaeSeoKim/badge42)
 
