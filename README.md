@@ -16,4 +16,4 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=parismart&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/parismart/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parismart&layout=compact&hide=javascript,PHP,CSS,html,Twig,SCSS,Objective-c&langs_count=15)](https://github.com/parismart/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parismart&layout=compact&exclude_repo=https://github.com/parismart/ft_server&langs_count=15)](https://github.com/parismart/github-readme-stats)
