@@ -32,7 +32,7 @@ Proyectos de 42Madrid
 | Exam_Rank_03 | 100 | Exam |
 | libasm | 100 | Assambler |
 | Minishell |   | C project |
-| ft_service |   | Kubernetes |
+| ft_services |   | Kubernetes |
 | Exam_Rank_04 |  | Exam |
 | Philosophers |  | C project |
 | Piscine C++ |  | C++ |
