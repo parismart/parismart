@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parismart&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/parismart/github-readme-stats)
 
 # 42Madrid
-Proyectos de 42Madrid
+
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
 |  Libft 	| 114  	| C project |
