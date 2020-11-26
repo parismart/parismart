@@ -25,19 +25,19 @@ Proyectos de 42Madrid
 |  Libft 	| 114  	| C project |
 | Get_Next_Line  	| 115  	| C project |
 | Printf	| 100  	| C project |
-| NetWhat | 100 | ip/tcp/udp |
-| Exam_Rank_02 | 100 | exam |
-| ft_server |  | Docker project |
+| NetWhat | 100 | Network |
+| Exam_Rank_02 | 100 | Exam |
+| ft_server |  | Docker |
 | Cub3D | 103 | Raycasting - C project |
-| Exam_Rank_03 | 100 | exam |
-| libasm | 100 | Assambler project |
+| Exam_Rank_03 | 100 | Exam |
+| libasm | 100 | Assambler |
 | Minishell |   | C project |
-| ft_service |   | Kubernetes - Docker |
-| Exam_Rank_04 |  | exam |
+| ft_service |   | Kubernetes |
+| Exam_Rank_04 |  | Exam |
 | Philosophers |  | C project |
-| Piscine C++ |  | 3/9 - C++ projects |
-| Exam_Rank_05 |  | exam |
+| Piscine C++ |  | 3/9 - C++ piscine |
+| Exam_Rank_05 |  | Exam |
 | ft_container | | C++ project |
 | web_server | | C++ project |
 | ft_transcendence | | Final project |
-| Exam_Rank_06 |  | exam |
+| Exam_Rank_06 |  | Exam |
