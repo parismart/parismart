@@ -35,9 +35,9 @@ Proyectos de 42Madrid
 | ft_service |   | Kubernetes |
 | Exam_Rank_04 |  | Exam |
 | Philosophers |  | C project |
-| Piscine C++ |  | C++ piscine |
+| Piscine C++ |  | C++ |
 | Exam_Rank_05 |  | Exam |
-| ft_container | | C++ project |
-| web_server | | C++ project |
+| ft_container | | C++ |
+| web_server | | C++ |
 | ft_transcendence | | Final project |
 | Exam_Rank_06 |  | Exam |
