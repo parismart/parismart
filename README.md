@@ -17,3 +17,27 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=parismart&count_private=true&show_icons=true&theme=dark)](https://github.com/parismart/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parismart&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/parismart/github-readme-stats)
+
+# 42Madrid
+Proyectos de 42Madrid
+|   Projects	|  Check	| Project type |
+|---	|---	|--- |
+|  Libft 	| 114  	| C project |
+| Get_Next_Line  	| 115  	| C project |
+| Printf	| 100  	| C project |
+| NetWhat | 100 | ip/tcp/udp |
+| Exam_Rank_02 | 100 | exam |
+| ft_server |  | Docker project |
+| Cub3D | 103 | Raycasting - C project |
+| Exam_Rank_03 | 100 | exam |
+| libasm | 100 | Assambler project |
+| Minishell |   | C project |
+| ft_service |   | Kubernetes - Docker |
+| Exam_Rank_04 |  | exam |
+| Philosophers |  | C project |
+| Piscine C++ |  | 3/9 - C++ projects |
+| Exam_Rank_05 |  | exam |
+| ft_container | | C++ project |
+| web_server | | C++ project |
+| ft_transcendence | | Final project |
+| Exam_Rank_06 |  | exam |
