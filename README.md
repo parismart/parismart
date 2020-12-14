@@ -27,7 +27,7 @@
 | Printf	| 100  	| C project |
 | NetWhat | 100 | Network |
 | Exam_Rank_02 | 100 | Exam |
-| ft_server | --- | Docker |
+| ft_server | 100 | Docker |
 | Cub3D | 103 | Raycasting - C project |
 | Exam_Rank_03 | 100 | Exam |
 | libasm | 100 | Assambler |
