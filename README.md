@@ -32,7 +32,7 @@
 | Exam_Rank_03 | 100 | Exam |
 | libasm | 100 | Assambler |
 | ft_services | --- | Kubernetes |
-| Minishell |   | C project |
+| Minishell | 51 | C project |
 | Exam_Rank_04 |  | Exam |
 | Philosophers |  | C project |
 | Piscine C++ |  | C++ |
