@@ -22,7 +22,7 @@
 
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
-|  Libft | 114 | C project |
+| Libft | 114 | C project |
 | Get_Next_Line	| 115 | C project |
 | Printf	| 100 | C project |
 | NetWhat | 100 | Network |
@@ -31,9 +31,9 @@
 | Cub3D | 103 | Raycasting - C project |
 | Exam_Rank_03 | 100 | Exam |
 | libasm | 100 | Assambler |
-| ft_services | --- | Kubernetes |
+| ft_services | 100 | Kubernetes |
 | Minishell | 100 | C project |
-| Exam_Rank_04 |  | Exam |
+| Exam_Rank_04 | --- | Exam |
 | Philosophers |  | C project |
 | Piscine C++ |  | C++ |
 | Exam_Rank_05 |  | Exam |
