@@ -3,7 +3,7 @@
 **parismart/parismart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Working on Minishell project
+- 🔭 Working on Philosophers project
 - 🌱 Learning in [42Madrid](https://www.42madrid.com)
 - 👯 I’m looking to collaborate on Machine Learning
 - 💻 Expertises with C language and Unix system
