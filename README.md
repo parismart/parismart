@@ -7,7 +7,7 @@
 - 🌱 Learning in [42Madrid](https://www.42madrid.com)
 - 👯 I’m looking to collaborate on Machine Learning
 - 💻 Expertises with C language and Unix system
-- 👨‍💻 Junior Software Dev 
+- 👨‍💻 Junior Data Scientist
 - 🏠 Living in Valencia
 - 💬 Ask me about Science [Instagram](https://www.instagram.com/parisdetroya42/)
 - 📫 How to reach me: parismrt@gmail.com
