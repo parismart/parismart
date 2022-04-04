@@ -7,7 +7,7 @@
 - 🌱 Learning in [42Madrid](https://www.42madrid.com)
 - 🌱 Learning in [The Bridge](https://www.thebridge.tech/campus/valencia)
 - 👯 I’m looking to colaborate on Machine Learning
-- 💻 Expertises with C language and Unix system
+- 💻 Expertises with Python, SQL, C language and Unix system
 - 👨‍💻 Junior Data Scientist
 - 🏠 Living in Valencia
 - 💬 Ask me about Science [Instagram](https://www.instagram.com/parisdetroya42/)
