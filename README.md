@@ -5,7 +5,7 @@
 
 - 🔭 Working on Philosophers project
 - 🌱 Learning in [42Madrid](https://www.42madrid.com)
-- 🌱 Learning in [4The Bridge](https://www.thebridge.tech/campus/valencia)
+- 🌱 Learning in [The Bridge](https://www.thebridge.tech/campus/valencia)
 - 👯 I’m looking to colaborate on Machine Learning
 - 💻 Expertises with C language and Unix system
 - 👨‍💻 Junior Data Scientist
