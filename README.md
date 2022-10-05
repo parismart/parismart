@@ -14,10 +14,6 @@
 - 📫 How to reach me: parismrt@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parismart&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/parismart/github-readme-stats)
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=parismart&count_private=true&show_icons=true&theme=dark)](https://github.com/parismart/github-readme-stats)
-
 [![parmarti's 42 stats](https://badge42.vercel.app/api/v2/cl1lvrz0z002109lhozldfih2/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
 # 42Madrid
